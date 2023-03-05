@@ -14,10 +14,12 @@ public class User {
     }
 
     public String getName() {
+
         return name;
     }
 
     public void setName(String name) {
+
         this.name = name;
     }
 
@@ -26,6 +28,7 @@ public class User {
     }
 
     public void setMobile(String mobile) {
+
         this.mobile = mobile;
     }
 }
